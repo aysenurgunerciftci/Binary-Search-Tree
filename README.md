@@ -36,3 +36,5 @@ Bu adımları takip ederek, verilen diziden Binary Search Tree oluşturulmuş ol
   0   3   4
      /
     2
+
+   
